@@ -1,0 +1,10 @@
+#div1{
+    background-color: red;
+    width: 25%;
+    float: left;
+}
+#div2{
+    background-color: rgb(0, 229, 255);
+    width: 25%;
+    float: right;
+}
